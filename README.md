@@ -381,3 +381,14 @@ MIT License — free to use in personal and commercial projects.
 *Built with love for developers who care about design*
 
 </div>
+
+---
+
+## 🙏 Acknowledgements
+
+The design system analyses and theme data in this repository are sourced from and inspired by the amazing work of:
+
+- **[getdesign.md](https://getdesign.md/)** — A curated platform for exploring world-class design systems, providing deep visual analysis and color breakdowns of top products and brands.
+- **[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** — An open-source collection of design system documentation in Markdown format, maintained by the VoltAgent team.
+
+Huge thanks to these projects for making design knowledge accessible to every developer. 🎨
