@@ -19,7 +19,22 @@
 
 <br/>
 
-[![auto-theme demo — Browse 63+ themes interactively](./preview-demo.jpg)](https://devldq.github.io/auto-theme/)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://devldq.github.io/auto-theme/">
+        <img src="./preview-demo.jpg" alt="auto-theme — Browse 63+ themes" />
+      </a>
+      <p align="center"><sub>主题浏览 · Theme Gallery</sub></p>
+    </td>
+    <td width="50%">
+      <a href="https://devldq.github.io/auto-theme/">
+        <img src="./preview-detail.jpg" alt="auto-theme — Theme detail panel with mock app UI" />
+      </a>
+      <p align="center"><sub>主题详情预览 · Theme Detail Panel</sub></p>
+    </td>
+  </tr>
+</table>
 
 *👆 Click to open the live demo / 点击图片进入在线预览*
 
