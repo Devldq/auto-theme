@@ -15,6 +15,8 @@
 
 [Browse Themes · 浏览主题](#-theme-gallery) · [Quick Start · 快速开始](#-quick-start) · [JSON Presets · JSON预设](#-use-the-json-presets) · [Contribute · 贡献](#-contributing)
 
+**🌐 [Live Demo · 在线预览](https://devldq.github.io/auto-theme/) — Browse all 63+ themes interactively / 在线浏览全部 63+ 主题**
+
 <br/>
 
 ![auto-theme preview — 63+ world-class themes ready to use](./image.png)
