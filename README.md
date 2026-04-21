@@ -181,12 +181,12 @@ design-cursor.md       → Cursor's dark IDE palette / Cursor 暗色 IDE 配色
 
 ### Option 3: Use the Lightweight Configs / 方案三：使用轻量配置
 
-The `configs/` directory contains compact, copy-paste-ready configurations:
-`configs/` 目录包含简洁的、可直接复制使用的配置：
+The `theme-configs/` directory contains compact, copy-paste-ready configurations:
+`theme-configs/` 目录包含简洁的、可直接复制使用的配置：
 
 ```
-configs/design-linear-config.md
-configs/design-stripe-config.md
+theme-configs/design-linear-config.md
+theme-configs/design-stripe-config.md
 ...
 ```
 
@@ -287,21 +287,22 @@ auto-theme/
 ├── README.md
 ├── theme-presets.json          # 63+ complete theme presets (light + dark) / 63+ 完整主题预设（亮/暗）
 │
-├── design-airbnb.md            # Full design system analysis / 完整设计系统分析
-├── design-apple.md
-├── design-claude.md
-├── design-cursor.md
-├── design-figma.md
-├── design-linear.md
-├── design-notion.md
-├── design-stripe.md
-├── design-tesla.md
-├── ...                         # 63 brand design systems total / 共 63 个品牌设计系统
+├── design/                         # Full design system analysis / 完整设计系统分析
+│   ├── design-airbnb.md
+│   ├── design-apple.md
+│   ├── design-claude.md
+│   ├── design-cursor.md
+│   ├── design-figma.md
+│   ├── design-linear.md
+│   ├── design-notion.md
+│   ├── design-stripe.md
+│   ├── design-tesla.md
+│   └── ...                         # 63 brand design systems total / 共 63 个品牌设计系统
 │
-└── configs/                    # Compact copy-paste configs / 简洁可复制配置
+└── theme-configs/                  # Compact copy-paste configs / 简洁可复制配置
     ├── design-airbnb-config.md
     ├── design-linear-config.md
-    └── ...                     # 70 lightweight configs / 70 个轻量配置
+    └── ...                         # 70 lightweight configs / 70 个轻量配置
 ```
 
 ---
@@ -324,7 +325,7 @@ Every `design-{brand}.md` file contains a deep analysis including:
 6. **Dark/Light Mode** — How the theme adapts across modes
 6. **暗色/亮色模式** — 主题如何在不同模式间适配
 
-Example from `design-linear.md` / 来自 `design-linear.md` 的示例：
+Example from `design/design-linear.md` / 来自 `design/design-linear.md` 的示例：
 > *"Linear's website is a masterclass in dark-mode-first product design — a near-black canvas (#08090a) where content emerges from darkness like starlight..."*
 > *"Linear 的网站是暗色优先产品设计的典范——近乎纯黑的画布（#08090a），内容如繁星般从黑暗中浮现……"*
 
@@ -356,8 +357,8 @@ We welcome contributions! The best way to contribute is to add a new brand's des
 ### How to add a new theme / 如何添加新主题
 
 1. Fork this repository / Fork 本仓库
-2. Create `design-{brand}.md` with the full design analysis / 创建 `design-{brand}.md` 包含完整设计分析
-3. Create `configs/design-{brand}-config.md` with the compact config / 创建 `configs/design-{brand}-config.md` 轻量配置
+2. Create `design/design-{brand}.md` with the full design analysis / 创建 `design/design-{brand}.md` 包含完整设计分析
+3. Create `theme-configs/design-{brand}-config.md` with the compact config / 创建 `theme-configs/design-{brand}-config.md` 轻量配置
 4. Add an entry to `theme-presets.json` / 在 `theme-presets.json` 中添加条目
 5. Open a Pull Request / 提交 Pull Request
 
