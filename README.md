@@ -15,22 +15,26 @@
 
 [Browse Themes · 浏览主题](#-theme-gallery) · [Quick Start · 快速开始](#-quick-start) · [JSON Presets · JSON预设](#-use-the-json-presets) · [Contribute · 贡献](#-contributing)
 
+<br/>
+
+![auto-theme preview — 63+ world-class themes ready to use](./image.png)
+
 </div>
 
 ---
 
 ## 🚀 Quickest Way to Use / 最快上手方式
 
-**Drop `theme-presets.json` into your AI chat and get dozens of themes for your app — instantly.**
-**把 `theme-presets.json` 丢给 AI，让它为你的应用一键生成数十款主题。**
+**Drop `theme-presets.json` into your AI chat — get a full theme switcher like this built into your app in minutes.**
+**把 `theme-presets.json` 丢给 AI，几分钟内为你的应用生成如上图所示的完整主题切换器。**
 
 1. **Download** [`theme-presets.json`](./theme-presets.json) from this repo / **下载**本仓库的 `theme-presets.json`
 2. **Upload it to your AI** (ChatGPT, Claude, Cursor, etc.) along with your codebase / **上传给 AI**（ChatGPT、Claude、Cursor 等），同时附上你的项目代码
 3. **Prompt:** *"Use the themes in this JSON to generate a theme switcher for my app. Let me pick from all 63+ styles."* / **提示词：** *"用这个 JSON 里的主题，为我的应用生成一个主题切换器，让我能从 63+ 种风格中自由选择。"*
-4. **Done.** Your app now supports world-class themes in minutes / **完成。** 几分钟内，你的应用就拥有了世界级设计主题
+4. **Done.** Your app now supports 63+ world-class themes / **完成。** 你的应用立刻拥有 63+ 款世界级设计主题
 
 > 💡 The JSON contains complete light & dark mode configs for every theme — your AI has everything it needs to wire it up.
-> 💡 JSON 中包含每个主题的完整亮/暗色配置，AI 拿到即可直接接入你的项目。
+> 💡 JSON 中包含每个主题完整的亮/暗色配置，AI 拿到即可直接接入，无需额外调研。
 
 ---
 
