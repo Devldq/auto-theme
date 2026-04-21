@@ -187,10 +187,10 @@ Each brand has a detailed markdown file in the root directory:
 每个品牌在根目录下都有详细的 Markdown 文档：
 
 ```
-design-linear.md       → Linear's full design system / Linear 完整设计系统
-design-stripe.md       → Stripe's gradient & color system / Stripe 渐变与配色系统
-design-notion.md       → Notion's minimal typography / Notion 极简排版
-design-cursor.md       → Cursor's dark IDE palette / Cursor 暗色 IDE 配色
+design/design-linear.md       → Linear's full design system / Linear 完整设计系统
+design/design-stripe.md       → Stripe's gradient & color system / Stripe 渐变与配色系统
+design/design-notion.md       → Notion's minimal typography / Notion 极简排版
+design/design-cursor.md       → Cursor's dark IDE palette / Cursor 暗色 IDE 配色
 ...
 ```
 
@@ -324,8 +324,8 @@ auto-theme/
 
 ## 🎯 What's in Each Design File? / 每个设计文件包含什么？
 
-Every `design-{brand}.md` file contains a deep analysis including:
-每个 `design-{brand}.md` 文件都包含深度分析：
+Every `design/design-{brand}.md` file contains a deep analysis including:
+每个 `design/design-{brand}.md` 文件都包含深度分析：
 
 1. **Visual Theme & Atmosphere** — The overall aesthetic and design philosophy
 1. **视觉主题与氛围** — 整体美学与设计理念
