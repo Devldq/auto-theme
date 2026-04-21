@@ -19,7 +19,9 @@
 
 <br/>
 
-![auto-theme preview — 63+ world-class themes ready to use](./image.png)
+[![auto-theme demo — Browse 63+ themes interactively](./preview-demo.jpg)](https://devldq.github.io/auto-theme/)
+
+*👆 Click to open the live demo / 点击图片进入在线预览*
 
 </div>
 
